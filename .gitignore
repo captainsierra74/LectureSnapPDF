@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+fonts/
+exports/
+session_*/
+*.lsnp
+*.log
+capture_errors.log
+temp/

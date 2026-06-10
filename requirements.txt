@@ -1,0 +1,9 @@
+PyQt5>=5.15.0
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+scikit-image>=0.21.0
+reportlab>=4.0.0
+langdetect>=1.0.9
+pytesseract>=0.3.10
+genanki>=0.13.0
