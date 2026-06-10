@@ -362,4 +362,11 @@ MIT License. Free for personal and educational use.
 
 ## Credits
 
-Built for students preparing for competitive exams in India. Noto Fonts by Google — licensed under SIL Open Font License.
+**Ideated by** — [captainsierra74](https://github.com/captainsierra74)  
+**Brainstormed by** — captainsierra74 & OpenCode  
+**Built by** — OpenCode (AI pair programmer)  
+**Tested by** — captainsierra74 & OpenCode  
+
+This project was born from a real student's need: turning long YouTube lecture videos into structured, AI-ready study material for competitive exam preparation. Every feature was shaped by real feedback from real study sessions.
+
+Noto Fonts by Google — licensed under SIL Open Font License.
